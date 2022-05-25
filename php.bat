@@ -1,0 +1,1 @@
+docker exec -i patterns-backend-1 php %*
