@@ -1,4 +1,3 @@
-2022-05-28 21:15:56: 'users:init' with data '"\/var\/www\/html\/users.csv"'
-<br>2022-05-28 21:15:56: 'users:created' with data '{"attributes":{"name":"John Smith","email":"john99@example.com","id":"f749e6f43253ba5383d15786aacdaebc"}}'
-<br>2022-05-28 21:15:56: 'users:deleted' with data '{"attributes":{"name":"John Smith","email":"john99@example.com","id":"f749e6f43253ba5383d15786aacdaebc"}}'
-<br>
+2022-05-29 20:35:03: 'users:init' with data '"\/var\/www\/htmlusers.csv"'<br>
+2022-05-29 20:35:03: 'users:created' with data '{"attributes":{"name":"John Smith","email":"john99@example.com","id":"c4de89c47824eb48dc34ca5901217f6d"}}'<br>
+2022-05-29 20:35:03: 'users:deleted' with data '{"attributes":{"name":"John Smith","email":"john99@example.com","id":"c4de89c47824eb48dc34ca5901217f6d"}}'<br>
